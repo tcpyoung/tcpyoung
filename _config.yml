@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: TCP's code
+email: tcpyoung4875@gmail.com
+url: https://tcpyoung4875.github.io
+description: "存放著一些學習過程中的學習心得及筆記，記錄生活上的每一點點滴滴。"
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Web Developer - Bboy life style - Algorithm implementation"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: tcpyoung
   location: Location
   social: Around the Web
   credits: Credits
