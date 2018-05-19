@@ -8,9 +8,5 @@ project-date: April 2018
 client: Start Bootstrap
 category: Travel
 description: 香港，澳門
-其實並沒有想像的無聊，
-或許是因為喜愛觀察一些人事物，
-抑或是跟妳在一起就是很快樂。
-
 
 ---
